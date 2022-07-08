@@ -215,7 +215,9 @@ footer .studio-white {
 /* Portfolio */
 
 .portfolio-list {
-    padding: 94px 215px;
+    padding-top: 94px;
+    padding-bottom: 94px;
+    padding-right: 215px;
 }
 
 .filters {
